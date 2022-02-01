@@ -12,7 +12,7 @@
 
 ## Ferramentas Git 
 
-- Git status *: mostra o status do que está ocorrend.* 
+- Git status *: mostra o status do que está ocorrend .* 
 
 - Git Log *: mostra o histórico de commit.*
 - Git push **indicar a pasta** *: para subir para diretório remoto .*
